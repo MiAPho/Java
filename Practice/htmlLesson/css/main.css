@@ -1,0 +1,33 @@
+body>div{
+	text-align:center;
+	color:white;
+}
+
+#no1{
+	width: 200px;
+	line-height: 200px;
+	background-color:blue;
+}
+#no2{
+	width:200px;
+	line-height:200px;
+	background-color:red;
+	border-radius:50%;
+}
+#no3{
+	width:200px;
+	height:200px;
+	line-height:100px;
+	display:flex;
+	flex-wrap:wrap;
+}
+.blue{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
+.red{
+	width:100px;
+	height:100px;
+	background-color:red;
+}

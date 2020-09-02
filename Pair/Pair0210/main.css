@@ -1,0 +1,40 @@
+#no1{
+	height:200px;
+	width:200px;
+	background-color:blue;
+	display:flex;
+}
+h1{
+	color:white;
+	margin:auto;
+}
+#no2{
+	height:200px;
+	width:200px;
+	background-color:red;
+	display:flex;
+	border-radius:50%;
+}
+.box{
+	display:flex;
+}
+.item1{
+	height:100px;
+	width:100px;
+	background-color:blue;
+	display:flex;
+}
+.item2{
+	height:100px;
+	width:100px;
+	background-color:red;
+	display:flex;
+}
+h3{
+	color:white;
+	margin:auto;
+}
+h4{
+	color:white;
+	margin:auto;
+}
